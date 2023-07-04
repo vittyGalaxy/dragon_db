@@ -1,0 +1,41 @@
+id;name;canon;type;damage;radius;ep
+k1;Kamehameha;true;area;50;15;30
+k2;Punch;true;range;15;1;3
+k3;Galactica Donuts;true;area;40;10;30
+k4;Genkidama;true;area;70;30;50
+k5;Kienzan;true;range;30;10;20
+k6;Galick Cannon;true;area;50;15;30
+k7;Big Bang Attack;true;area;50;15;30
+k8;Double Tsuibikidan;true;range;30;7;20
+k9;Death Beam;true;range;40;10;20
+k10;Final Kamehameha;true;area;60;20;40
+k11;Istant Kamehameha;true;area;40;15;35
+k12;Power Healing;true;range;-20;1;20
+k13;Masenko;true;area;40;10;30
+k14;Sayonara Ten-San;true;area;40;15;40
+k15;Break Cannon;true;area;30;10;20
+k16;Power Blitz;true;area;25;10;20
+k17;Death Cannon;true;area;30;10;30
+k18;Makankosappo;true;range;40;10;30
+k19;Death Ball;true;area;50;20;40
+k20;Light Grenade;true;area;30;10;20
+k21;Explosive Wave;true;area;30;5;20
+k22;Solar Kamehameha;true;area;40;10;20
+k23;Ghost kamikaze;true;area;30;3;20
+k24;Photon Flash;true;area;30;10;30
+k25;Wave Energy at High Pressure;true;area;30;10;30
+k26;Ki Blast;true;range;20;10;20
+k27;Final Flash;true;area;40;10;30
+k28;Acid;true;range;10;3;10
+k29;Abyss Impact;true;range;20;1;10
+k30;Accel Dance;true;range;40;5;20
+k31;Accel Shot;true;range;30;5;20
+k32;Android Charge 14;true;range;30;1;20
+k33;Android Strike 15;true;range;20;1;20
+k34;Angry Kamehameha;true;area;35;7;20
+k35;Another End;true;range;20;1;20
+k36;Amazing Impact;true;range;20;1;10
+k37;Arm Break;true;range;35;1;20
+k38;Bing Bang Flash;true;area;30;5;25
+k39;Continuos Kamehameha;true;range;25;5;30
+k40;Finish Flash;true;range;25;5;20
